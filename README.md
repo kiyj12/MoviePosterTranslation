@@ -1,4 +1,6 @@
 # MoviePosterTranslation
+## About the project
+Go to (./Final Presentation.pdf) to see more details and results of this project.
 
 ## Environment
 Create Anaconda environment
