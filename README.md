@@ -1,6 +1,6 @@
 # MoviePosterTranslation
 ## About the project
-Go to [here](Final Presentation.pdf) to see more details and results of this project.
+Go to [[here](Final Presentation.pdf)](https://github.com/kiyj12/MoviePosterTranslation/blob/main/Final%20Presentation.pdf) to see more details and results of this project.
 
 ## Environment
 Create Anaconda environment
